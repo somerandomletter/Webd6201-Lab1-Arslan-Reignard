@@ -1,0 +1,78 @@
+/*
+* Background Pic
+*/
+body {
+    padding-top: 80px;
+    background-image: url('../Content/night.jpg');
+    background-size: cover;
+  }
+  
+/*
+* Footer
+*/
+#jstxt{
+  color: white;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/*
+* Text
+*/
+.container p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+  }
+
+/*
+* Navbar
+*/
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  width: 100;
+  background-color: #333;
+  color: #fff;
+  text-align: left;
+  padding: 10px;
+}
+
+/*
+* Footer
+*/
+footer{
+  position: absolute;
+  color: white;
+  bottom: 0;
+  width: 100;
+}
+
+/*
+* Welcome
+*/
+#welcome {
+  color: white;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  position: fixed;
+  top: 0;
+  left: 10;
+  text-align: center;
+}
+
+/*
+* Form
+*/
+#myForm {
+  color: white;
+}
+
+/*
+* Images
+*/
+#Images {
+  padding-top: 10px;
+  width: 150px;
+  height: 120px;
+}
