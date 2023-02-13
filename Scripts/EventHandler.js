@@ -1,7 +1,10 @@
 /**
  * Name: Reignard Uy & Arslan Mahmood
- * StudentID: 100757893 &
+ * StudentID: 100757893 & 100792834
  * Date: 02/06/23
+ * About: The purpose os the creations of the websites that we have made and linked all together is for the purpose of a Project being taken
+ * At durham College within the Program Computer Programing. Within the various Pages created we have our home page, About us page, our contact page,
+ * products page, and lastly our servies.
  */
 
 var userDisplay = document.getElementById("userDisplay");
@@ -78,7 +81,7 @@ function aboutUs() {
     Rey.innerHTML = "Hi I'm Reignard, or Rey. I'm currently 21 years old, I enjoy web developement, and on my free time I read, and play basketball.";
     
     var Arslan = document.getElementById("Arslan");
-    Arslan.innerHTML = "lorem";
+    Arslan.innerHTML = "Hello My name Arslan Mahmood, im currently enrolled at Durham College taking a Program Called Computer Proggraming. I like to listen to music, Mainly my own voice.  I play games like league of Legends, im basicaly number 1. My Friends call me king of the jungle but u can just call me King";
 }
 
 // Add nav link
